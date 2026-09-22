@@ -21,7 +21,7 @@ iniciales.
 | https://github.com/SufianEmbark/GestionColaReparaciones/pull/1   | v0.0.1  |           |
 | <!-- Enlace de danifc23 -->                                      |         |           |
 | <!-- Enlace de F F P J -->                                       |         |           |
-| https://github.com/raulgs24/PreSalud/pull/1                      | v0.0.1  |           |
+| https://github.com/raulgs24/Tapeo4All/pull/1                      | v0.0.2  |           |
 | https://github.com/jgarmed8/TurnosSupermercado/pull/1            | v0.0.3  | ✓         |
 | <!-- Enlace de G K -->                                           |         |           |
 | <!-- Enlace de Gom01 -->                                         |         |           |
